@@ -3,4 +3,4 @@ def multiply (a,b):
     return (answer)
     
 print (multiply(10,7))
-expected outcome is 70
+#expected 70
