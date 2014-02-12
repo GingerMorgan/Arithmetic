@@ -1,5 +1,6 @@
-def multiplication (a,b)
+def multiply (a,b)
     answer= a*b
     return (answer)
     
-print (multiplication(10,7))
+print (multiply(10,7))
+expected outcome is 70
